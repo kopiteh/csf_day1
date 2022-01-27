@@ -1,0 +1,26 @@
+<h1>Sample Form</h1>
+
+
+<form
+  [formGroup]="rsvpForm"
+  (ngSubmit)="processForm()"
+>
+  <p>
+    Name: <input type="text" formControlName="name">
+  </p>
+  <p>
+    Email: <input type="text" formControlName="email">
+  </p>
+  <p>
+    Phone: <input type="text" formControlName="phone">
+  </p>
+  <p>
+    Attending:
+    <input type="radio" value="yes" formControlName="attending">Yes
+    <input type="radio" value="no" formControlName="attending">No
+  </p>
+
+  <button type="submit">Send</button>
+</form>
+
+<p>Checking the value of email: {{checkValue}}</p>

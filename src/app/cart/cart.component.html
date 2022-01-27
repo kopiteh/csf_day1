@@ -1,0 +1,7 @@
+<hr>
+<h2>My Cart</h2>
+
+<div *ngIf="cartappleCount>0">
+  <span> Apple Qty {{cartappleCount}} </span>
+  <button (click)="removeApple()"> Remove</button>
+</div>

@@ -1,0 +1,20 @@
+<h1>To Do</h1>
+
+<form [formGroup]="todoForm" (ngSubmit)="processForm()">
+  
+    <tbody>
+      <tr>
+        <td><input type="date"></td>
+        <td><input type="text"></td>
+        <td>
+          <select>
+            <option value="Low">Low</option>
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+          </select>
+        </td>
+      </tr>
+    </tbody>
+  <button type="button">Save</button>
+
+</form>
