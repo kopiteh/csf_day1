@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643261616275,
-  "index": "/ABCSDDS/index.html",
+  "timestamp": 1643263370042,
+  "index": "/csf_day1/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ABCSDDS/favicon.ico",
-        "/ABCSDDS/index.html",
-        "/ABCSDDS/main.0f03c4144f731cb6.js",
-        "/ABCSDDS/manifest.webmanifest",
-        "/ABCSDDS/polyfills.b4939583bcdec274.js",
-        "/ABCSDDS/runtime.a0f92d8b840fde5c.js",
-        "/ABCSDDS/styles.ef46db3751d8e999.css"
+        "/csf_day1/favicon.ico",
+        "/csf_day1/index.html",
+        "/csf_day1/main.0f03c4144f731cb6.js",
+        "/csf_day1/manifest.webmanifest",
+        "/csf_day1/polyfills.b4939583bcdec274.js",
+        "/csf_day1/runtime.a0f92d8b840fde5c.js",
+        "/csf_day1/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ABCSDDS/assets/hello.jpg",
-        "/ABCSDDS/assets/icons/icon-128x128.png",
-        "/ABCSDDS/assets/icons/icon-144x144.png",
-        "/ABCSDDS/assets/icons/icon-152x152.png",
-        "/ABCSDDS/assets/icons/icon-192x192.png",
-        "/ABCSDDS/assets/icons/icon-384x384.png",
-        "/ABCSDDS/assets/icons/icon-512x512.png",
-        "/ABCSDDS/assets/icons/icon-72x72.png",
-        "/ABCSDDS/assets/icons/icon-96x96.png"
+        "/csf_day1/assets/hello.jpg",
+        "/csf_day1/assets/icons/icon-128x128.png",
+        "/csf_day1/assets/icons/icon-144x144.png",
+        "/csf_day1/assets/icons/icon-152x152.png",
+        "/csf_day1/assets/icons/icon-192x192.png",
+        "/csf_day1/assets/icons/icon-384x384.png",
+        "/csf_day1/assets/icons/icon-512x512.png",
+        "/csf_day1/assets/icons/icon-72x72.png",
+        "/csf_day1/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ABCSDDS/assets/hello.jpg": "fcdd34e0249e2e5c65acc281db51437227901b89",
-    "/ABCSDDS/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/ABCSDDS/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/ABCSDDS/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/ABCSDDS/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/ABCSDDS/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/ABCSDDS/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/ABCSDDS/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/ABCSDDS/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/ABCSDDS/favicon.ico": "7f4696f3ff3ae8150baea69fbf94441fda230869",
-    "/ABCSDDS/index.html": "8204c6cb1567d71c5419596d08ff5a8874071468",
-    "/ABCSDDS/main.0f03c4144f731cb6.js": "d10428a852439790d59d83883d9f91c29660ca25",
-    "/ABCSDDS/manifest.webmanifest": "9973100d2e50afbe4d36b5bd387378d8f329768c",
-    "/ABCSDDS/polyfills.b4939583bcdec274.js": "e7ebd45d3eaede51cced4d26127a50b606060b54",
-    "/ABCSDDS/runtime.a0f92d8b840fde5c.js": "d3c4bec764123c9c591955c3b2a7137736a3aaf5",
-    "/ABCSDDS/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/csf_day1/assets/hello.jpg": "fcdd34e0249e2e5c65acc281db51437227901b89",
+    "/csf_day1/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/csf_day1/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/csf_day1/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/csf_day1/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/csf_day1/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/csf_day1/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/csf_day1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/csf_day1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/csf_day1/favicon.ico": "7f4696f3ff3ae8150baea69fbf94441fda230869",
+    "/csf_day1/index.html": "adf1c98ef1c813611ded19fa5ecee92aceafe7eb",
+    "/csf_day1/main.0f03c4144f731cb6.js": "d10428a852439790d59d83883d9f91c29660ca25",
+    "/csf_day1/manifest.webmanifest": "9973100d2e50afbe4d36b5bd387378d8f329768c",
+    "/csf_day1/polyfills.b4939583bcdec274.js": "e7ebd45d3eaede51cced4d26127a50b606060b54",
+    "/csf_day1/runtime.a0f92d8b840fde5c.js": "d3c4bec764123c9c591955c3b2a7137736a3aaf5",
+    "/csf_day1/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
